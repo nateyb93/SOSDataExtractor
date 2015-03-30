@@ -1,0 +1,68 @@
+Process id 1016:
+				 Max Starve Time: 23223 Avg Starve Time: 493.0781250000001
+
+Process id 1015:
+				 Max Starve Time: 99665 Avg Starve Time: 852.7864506627408
+
+Process id 1021:
+				 Max Starve Time: 99730 Avg Starve Time: 1247.4305772230887
+
+Process id 1003:
+				 Max Starve Time: 172 Avg Starve Time: 172.0
+
+Process id 1001:
+				 Max Starve Time: 33618 Avg Starve Time: 743.5490196078432
+
+Process id 1020:
+				 Max Starve Time: 64429 Avg Starve Time: 1065.0235042735028
+
+Process id 1014:
+				 Max Starve Time: 2360 Avg Starve Time: 122.66129032258064
+
+Process id 999:
+				 Max Starve Time: -1 Avg Starve Time: 0.0
+
+Process id 1019:
+				 Max Starve Time: 46979 Avg Starve Time: 1228.4941176470577
+
+Process id 1017:
+				 Max Starve Time: 34915 Avg Starve Time: 941.0851063829789
+
+Process id 1012:
+				 Max Starve Time: 34915 Avg Starve Time: 1052.9147609147622
+
+Process id 1011:
+				 Max Starve Time: 99730 Avg Starve Time: 874.545018007208
+
+Process id 1006:
+				 Max Starve Time: 329 Avg Starve Time: 68.69999999999999
+
+Process id 1004:
+				 Max Starve Time: 31574 Avg Starve Time: 595.7166666666662
+
+Process id 1009:
+				 Max Starve Time: 99730 Avg Starve Time: 1273.3403755868546
+
+Process id 1013:
+				 Max Starve Time: 96881 Avg Starve Time: 1211.3761329305144
+
+Process id 1008:
+				 Max Starve Time: 34655 Avg Starve Time: 869.4617346938774
+
+Process id 1018:
+				 Max Starve Time: 92897 Avg Starve Time: 1485.1818181818178
+
+Process id 1002:
+				 Max Starve Time: 99730 Avg Starve Time: 952.9158415841605
+
+Process id 1007:
+				 Max Starve Time: 99730 Avg Starve Time: 1284.2463054187192
+
+Process id 1010:
+				 Max Starve Time: 99730 Avg Starve Time: 860.4175438596499
+
+Process id 1005:
+				 Max Starve Time: 99730 Avg Starve Time: 979.4769736842093
+
+Total CPU ticks: 1190767
+Total Simulation Time: 18232ms
