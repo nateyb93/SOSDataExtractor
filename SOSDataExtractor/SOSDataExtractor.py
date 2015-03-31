@@ -4,7 +4,13 @@ def consoleToResults(inputpath, outputpath):
     """Takes the raw output of an SOS program (inputpath) run and
        extracts the max/avg starve times for each process to (outputpath)"""
 
+    #python overwrites duplicate-key entries in dictionaries, so each
+    #post-parse dictionary value is guaranteed to be the final appearance
+    #of its respective key in the output file
+    
     #output is a dictionary that stores ProcessId:max,avg,,max,avg...etc
+    #each output is stored in a dictionary entry where the key is the line
+    #of output containing the process id.
     output = dict();
 
     with open(inputpath) as f:
